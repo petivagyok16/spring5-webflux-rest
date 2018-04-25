@@ -2,7 +2,7 @@
 
 ### Description
 
-This project was made for education purposes
+This project was made for educational purposes
 
 ### How to install
 - import root folder as a project to IntelliJ
